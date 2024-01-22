@@ -1,0 +1,14 @@
+{
+	"settings":
+	{
+		"project-id":"western-storm-393007",
+		"location":"europe-north1",
+		"color":"rgba(250, 50, 50, 0.7)" 
+	},
+	"variables":
+	{
+		"var-dataset-bronze":"prod_bronze",
+		"var-dataset-silver":"prod_silver",
+		"var-dataset-gold":"prod_gold"
+	}
+}

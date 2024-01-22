@@ -1,0 +1,15 @@
+{
+	"inherits":"dev_common.json",
+	"settings":
+	{
+		"project-id":"western-storm-393007",
+		"location":"europe-north1",
+		"color":"rgba(50, 250, 250, 0.6)" 
+	},
+	"variables":
+	{
+		"var-dataset-bronze":"dev_joel_bronze",
+		"var-dataset-silver":"dev_joel_silver",
+		"var-dataset-gold":"dev_joel_gold"
+	}
+}
