@@ -75,9 +75,9 @@ Sample `dev.json`
 	},
 	"variables":
 	{
-		"var-dataset-bronze":"dev_bronze",
-		"var-dataset-silver":"dev_silver",
-		"var-dataset-gold": "dev_gold",
+		"@@bronze":"dev_bronze",
+		"@@silver":"dev_silver",
+		"@@gold": "dev_gold",
         "var-raw-data-import-cutoff-months": "24"
 	}
 }
@@ -94,9 +94,9 @@ Notice the inheritance. Where John changed gui color and dataset names.
 	},
 	"variables":
 	{
-		"var-dataset-bronze":"john_dev_bronze",
-		"var-dataset-silver":"john_dev_silver",
-		"var-dataset-gold":"jon_dev_gold"
+		"@@bronze":"john_dev_bronze",
+		"@@silver":"john_dev_silver",
+		"@@gold":"jon_dev_gold"
 	}
 }
 ```

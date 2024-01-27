@@ -8,8 +8,8 @@
 	},
 	"variables":
 	{
-		"var-dataset-bronze":"dev_joel_bronze",
-		"var-dataset-silver":"dev_joel_silver",
-		"var-dataset-gold":"dev_joel_gold"
+		"@@bronze":"joel_dev_bronze",
+		"@@silver":"joel_dev_silver",
+		"@@gold":"joel_dev_gold"
 	}
 }

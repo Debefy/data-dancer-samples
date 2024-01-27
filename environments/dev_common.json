@@ -7,8 +7,8 @@
 	},
 	"variables":
 	{
-		"var-dataset-bronze":"dev_bronze",
-		"var-dataset-silver":"dev_silver",
-		"var-dataset-gold":"dev_gold"
+		"@@bronze":"dev_bronze",
+		"@@silver":"dev_silver",
+		"@@gold":"dev_gold"
 	}
 }

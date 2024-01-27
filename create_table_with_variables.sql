@@ -1,4 +1,4 @@
-create or replace table var-dataset-bronze.landing_table
+create or replace table @@bronze.landing_table
 (
     id int64,
     name string,
