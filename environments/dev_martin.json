@@ -1,0 +1,13 @@
+{
+	"inherits":"dev_common.json",
+	"settings":
+	{
+		"color":"rgba(55, 102, 53, 0.5)" 
+	},
+	"variables":
+	{
+		"@bronze":"martin_dev_bronze",
+		"@silver":"martin_dev_silver",
+		"@gold":"martin_dev_gold"
+	}
+}

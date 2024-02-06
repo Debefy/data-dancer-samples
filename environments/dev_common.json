@@ -1,0 +1,15 @@
+{
+	"settings":
+	{
+		"project-id":"western-storm-393007",
+		"location":"europe-north1",
+		"color":"rgba(100, 250, 50, 0.5)" 
+	},
+	"variables":
+	{
+		"@bronze":"dev_bronze",
+		"@silver":"dev_silver",
+		"@gold":"dev_gold",
+		"@maximum_overdrive": "true"
+	}
+}
