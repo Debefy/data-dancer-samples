@@ -10,6 +10,8 @@
 	{
 		"@bronze":"joel_dev_bronze",
 		"@silver":"joel_dev_silver",
-		"@gold":"joel_dev_gold"
+		"@gold":"joel_dev_gold",
+		"#s": "select * from ",
+		"#c": "select count(*) from "
 	}
 }

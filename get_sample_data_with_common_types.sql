@@ -1,3 +1,4 @@
+create view @bronze.sample_data as
 with data as (
   select
     cast(floor(rand() * 1000) as int64) as int_col,
@@ -19,7 +20,7 @@ with data as (
       field2 string
     >(cast(floor(rand() * 100) as int64), 'value') as struct_col
   from
-    unnest(generate_array(1, 100)) as row_number
+    unnest(generate_array(1, 1001)) as row_number
 )
 
 select * from data;

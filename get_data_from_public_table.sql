@@ -6,4 +6,3 @@ this query should yield and error if your locaiton is not set to US
 */
 select * 
 from bigquery-public-data.samples.shakespeare 
-limit 100
